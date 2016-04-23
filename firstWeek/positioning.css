@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+  text-align: left;
+}
+
+header{
+	width: 70%;
+	margin: 0 auto;
+}
+body{}
+
+#fixed{
+	background-color: white;
+	position: fixed;
+	text-align: center;
+	padding: 20px;
+	z-index: 2;
+}
+
+#absolute{
+	background-color: #999;
+	position: absolute;
+	text-align: center;
+	padding:20px;
+}
+
+#relative{
+	background-color: #eee;
+	position: relative;
+	text-align: center;
+	padding: 20px;
+}
+
+#paragraph{
+	padding: 20px;
+	margin:0 auto;
+	width: 70%;
+}
