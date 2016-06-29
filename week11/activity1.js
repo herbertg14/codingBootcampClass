@@ -57,3 +57,5 @@ function massHysteria (dogs,cats){
 }
 
 massHysteria(dogs, cats);
+
+//Look up hoisting 
